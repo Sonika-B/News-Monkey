@@ -30,4 +30,5 @@ To run this project locally, follow these steps:
 - Click on individual news articles to read the full story.
 - Experience seamless navigation and responsive design across various devices.
 
+![Screenshot 2024-05-10 131105](https://github.com/Sonika-B/News-Monkey/assets/101943808/50ef8620-c137-4caa-b654-0dec34d582ba)
 
