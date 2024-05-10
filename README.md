@@ -29,3 +29,5 @@ To run this project locally, follow these steps:
 - Browse through different categories of news by selecting the desired domain (e.g., business, entertainment, health, sports, etc.).
 - Click on individual news articles to read the full story.
 - Experience seamless navigation and responsive design across various devices.
+
+  <img width="1440" alt="Screenshot 2022-08-12 at 10 26 48 PM" src="https://user-images.githubusercontent.com/100856295/184407751-acc9f560-5d35-479a-9e87-380899d98063.png">
